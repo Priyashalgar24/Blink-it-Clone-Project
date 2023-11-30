@@ -1,9 +1,10 @@
 # Blink-it-Clone-Project
-# Description: A simplified version of the Blinkit app, allowing users to send self-destructing messages and images.
+# Description: 
+A simplified version of the Blinkit app, allowing users to send self-destructing messages and images.
 
 # Table of Contents
-# Features
-# Demo
+* Features
+* Demo
 
 # Features:
 Self-Destructing Messages: Send messages and images that disappear after they're viewed.
